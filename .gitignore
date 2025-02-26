@@ -1,0 +1,8 @@
+daemonsync
+*.log
+*.pid
+*.conf
+*.cfg
+*.ini
+*.json
+*.yaml
